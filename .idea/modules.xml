@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaDesafio/JavaDesafio.iml" filepath="$PROJECT_DIR$/JavaDesafio/JavaDesafio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Orientado_a_Objetos_G7-ONE.iml" filepath="$PROJECT_DIR$/.idea/Java_Orientado_a_Objetos_G7-ONE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creando-tu-primera-aplicacion-alura/creando-tu-primera-aplicacion-alura.iml" filepath="$PROJECT_DIR$/creando-tu-primera-aplicacion-alura/creando-tu-primera-aplicacion-alura.iml" />
+    </modules>
+  </component>
+</project>
